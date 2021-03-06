@@ -1,0 +1,57 @@
+.gray{
+    height: 100%;
+    width: 100%;
+    background-color:rgb(250,250,250);
+}
+.beincenter{
+    width: 90%;
+    height: 400px;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+}
+.nickname{
+    width: 95%;
+    line-Height: 120px;
+    font-size: 0.8em;
+    margin: 50px auto;
+    background-color: white;
+    white-space: nowrap;
+    display: flex;
+}
+.mright{
+    margin-left: 20px;
+}
+.nick{
+    width: 100px;
+    white-space: nowrap;
+}
+.arc{
+    border-radius: 10px;
+}
+.touxiang{
+    width: 95%;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    background-color: white;
+}
+.ycenter{
+    height: 300px;
+    line-height: 300px;
+}
+.circle{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin-right: 40px;
+    margin-top: 25px;
+}
+.button{
+    width: 250px;
+    display: inline-block;
+    line-Height: 100px;
+    border-radius: 20px;
+    outline: white;
+    background-color: white;
+}

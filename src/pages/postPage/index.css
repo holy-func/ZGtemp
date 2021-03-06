@@ -1,0 +1,17 @@
+.rightfloat{
+    position: relative;
+    width: 100px;
+    font-size: 30px!important;
+    height: 45px;
+    left: 81%;
+    /* top: 0; */
+    line-height: 45px;
+    /* float: right; */
+}
+.unisize{
+    width: 36px;
+    height: 36px;
+}
+.clearFloat::after{
+    clear: both;
+}
